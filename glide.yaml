@@ -1,0 +1,4 @@
+package: gin_test
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.1.4
